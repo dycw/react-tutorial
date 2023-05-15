@@ -1,3 +1,3 @@
-# `template-generic`
+# React tutorial
 
-Template for generic repositories
+https://react.dev/learn/describing-the-ui
