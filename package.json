@@ -38,10 +38,7 @@
   },
   "prettier": {
     "plugins": [
-      "@trivago/prettier-plugin-sort-imports"
-    ],
-    "importOrderSeparation": true,
-    "importOrderSortSpecifiers": true,
-    "importOrderGroupNamespaceSpecifiers": true
+      "prettier-plugin-organize-imports"
+    ]
   }
 }
